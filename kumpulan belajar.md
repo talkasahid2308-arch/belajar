@@ -1,12 +1,12 @@
 #iterasi lompat 2 angka (deret ganjil)
 for i in range(1, 10, 2):
     print(i)
-# output:1, 3, 5, 7, 9
+#output:1, 3, 5, 7, 9
 
-# hitung mundur (countdown)
+#hitung mundur (countdown)
 for i in range(10, 0, -1):
     print(i)
-# output: 10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+#output: 10, 9, 8, 7, 6, 5, 4, 3, 2, 1
 
 #iterasi langsung declarative
 daftar_buah = ["apel", "pisang", "jeruk"]
