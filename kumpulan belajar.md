@@ -16,7 +16,7 @@ for item in daftar_buah:
 #iterasi pasangan indeks dan nilai
 for i, item in enumerate(daftar_buah):
     print(f"indeks {i}: {item}")
-# output: indeks 0: apel, dst
+#output: indeks 0: apel, dst
 
 #sample dictionary data
 mhs = {"nama": "aria", "nim": "12345"}
